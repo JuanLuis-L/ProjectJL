@@ -9,7 +9,7 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+You have 4 bits input and you can select from 0=A to 9=J
 
 ## How to test
 
