@@ -13,8 +13,10 @@ You have 4 bits input and you can select from 0=A to 9=J
 
 ## How to test
 
-Explain how to use your project
+Collocate 1 or 0 in each input
 
 ## External hardware
 
 List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+BCD 7 segments
+7 switches
